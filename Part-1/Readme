@@ -1,0 +1,16 @@
+The terraform Part - 1 project is all about basic terrform code in OCI. All the resources created in OCI is using hard coded value. SO the beginner can understand and can get a flavour of the language.
+
+The resources created are as below:-
+
+Compartment
+Virtual Cloud Network
+subnet
+DRG
+Route Table
+Internet Gateway
+DRG Attachement
+Load balancer
+Backend Set
+Backend
+Listener
+The project directly gives the code, user has to install and configure the terraform provider on the machine to execute the code.
