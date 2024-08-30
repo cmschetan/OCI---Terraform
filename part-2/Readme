@@ -1,0 +1,5 @@
+This part creates OCI infrastructure with using basic variables. 
+
+In the part 1, all the infrastructure is created with hard coded values.
+
+We have used variables in thi spart to create VCN, Subnets, compartments and other infrastructure.
